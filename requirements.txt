@@ -1,0 +1,9 @@
+streamlit #frontend
+langchain
+faiss-cpu #database
+PyMuPDF
+langchain-google-genai
+langchain-huggingface #vector embeddings
+tf-keras
+langchain-community
+langchain-text-splitters
